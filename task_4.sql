@@ -1,6 +1,6 @@
 USE alx_book_store;
 
-ELECT 
+SELECT 
     COLUMN_NAME,
     COLUMN_TYPE,
     IS_NULLABLE,
